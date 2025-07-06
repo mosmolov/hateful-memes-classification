@@ -1,5 +1,7 @@
 # Hateful Memes Classification
 
+If you would like to see the final project report with consolidated research and findings, navigate to the "FINAL_REPORT" document.
+
 This repository contains code for classifying hateful memes using the Facebook Hateful Memes dataset.
 
 ## Libraries Used
